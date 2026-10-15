@@ -1,0 +1,11 @@
+{
+  "name": "spz-llk-vorsino",
+  "private": true,
+  "description": "Программа комплексных испытаний систем противопожарной защиты, ЛЛК-Интернешнл, Ворсино",
+  "scripts": {
+    "build": "node src/build.js \"output/Программа_комплексных_испытаний_СПЗ_ЛЛК_Ворсино.docx\""
+  },
+  "dependencies": {
+    "docx": "9.7.1"
+  }
+}
